@@ -64,9 +64,6 @@ near.sign:0x<unsigned_transaction>
 ![Confirmation](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/confirm.jpg?1)
 
 
-#### Completed transaction
-https://sepolia.etherscan.io/tx/0xdbdb3ed9f6f65706568bbcb5cfa75ea4998f94f7dec68fb58bcc656c8e58ba27
-
 ![Signed transaction on device](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/signed.jpg?1)
 
 ## <a name="named-near"/>3. Verifying named NEAR account
