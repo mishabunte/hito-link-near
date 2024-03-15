@@ -77,6 +77,8 @@ near.sig:0x614044d737a04fc5f4e1a3bcf0bf9a44b04ecf0ed03b6068da91e05a170cf10142aad
 TODO: we will implement a protocol to verify a part of the near 
 chain between signing and confirming transaction for AddKey, CreateAccount
 
+We need a proof for named accounts added to avoid scam before displaying it on the device's screen
+
 
 ## <a name="ethereum"/>4. Signing ethereum transaction 
 
