@@ -64,6 +64,8 @@ near.sign:0x<unsigned_transaction>
 ![Confirmation](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/confirm.jpg?1)
 
 
+#### Completed transaction signature
+
 ![Signed transaction on device](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/signed.jpg?1)
 
 ## <a name="named-near"/>3. Verifying named NEAR account
