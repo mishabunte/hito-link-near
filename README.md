@@ -25,7 +25,7 @@ from a Hito wallet via QR-code and save it on our side
 
 ### Scan the Qr-code with the App
 
-Hito provides a public address as a Qr-Code with a prefix:
+Hito provides a NEAR public key as a Qr-Code in base58 format:
 ```
 CWEMFDimUuyPcBnS5PM3FUnvXceCXvEF1L72BGHTyZt1
 ```
