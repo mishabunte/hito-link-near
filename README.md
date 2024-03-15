@@ -66,6 +66,10 @@ near.sign:0x<unsigned_transaction>
 
 #### Completed transaction signature
 
+```
+near.sig:0x614044d737a04fc5f4e1a3bcf0bf9a44b04ecf0ed03b6068da91e05a170cf10142aad251491017cbb096affae7d4799bd8311a7804be7c8edaf3567001b12209
+```
+
 ![Signed transaction on device](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/signed.jpg?1)
 
 ## <a name="named-near"/>3. Verifying named NEAR account
