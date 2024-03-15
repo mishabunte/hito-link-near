@@ -30,7 +30,7 @@ Hito provides a NEAR public key as a Qr-Code in base58 format:
 CWEMFDimUuyPcBnS5PM3FUnvXceCXvEF1L72BGHTyZt1
 ```
 
-![Device with the ethereum address displayed](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/address.jpg)
+![Device with the ethereum address displayed](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/address.jpg?1)
 
 ### API public endpoints
 
@@ -41,7 +41,7 @@ TODO: add api endpoints here
 Signing is done via NFC. The app should transfer the unsigned signature  
 as NDEF message to the device. Payload format is below.
 
-![](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/send.jpg)
+![](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/send.jpg?1)
 
 1. Prepare device - Unlock and Tap "SEND"
 2. Send NDEF message from app to device (NFC antenna is under the screen)
@@ -61,13 +61,13 @@ near.sign:0x<unsigned_transaction>
 
 `near.signe:0x400000006537653337316633633831353266613035356536626661643037653233656537386635383466616266393835393663666164333061316333313761393837346600e7e371f3c8152fa055e6bfad07e23ee78f584fabf98596cfad30a1c317a9874f05a768a29e900000100000006869746f746573742e746573746e65742a094849434e1117af66aec954e58d9483bee3e44863bafc0b45618b4510115a0100000003000000a1edccce1bc2d3000000000000`
 
-![Confirmation](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/confirm.jpg)
+![Confirmation](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/confirm.jpg?1)
 
 
 #### Completed transaction
 https://sepolia.etherscan.io/tx/0xdbdb3ed9f6f65706568bbcb5cfa75ea4998f94f7dec68fb58bcc656c8e58ba27
 
-![Signed transaction on device](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/signed.jpg)
+![Signed transaction on device](https://raw.githubusercontent.com/mishabunte/hito-link-near/main/img/signed.jpg?1)
 
 ## <a name="named-near"/>3. Verifying named NEAR account
 
